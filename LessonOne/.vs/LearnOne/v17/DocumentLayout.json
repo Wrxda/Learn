@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "W:\\Code\\c\u002B\u002B\\Learn\\LearnOne\\",
+  "WorkspaceRootPath": "W:\\Code\\c\u002B\u002B\\Lessons\\LessonOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9CCD31E-D3EE-483D-B951-2672C103BA7D}|LearnOne.vcxproj|W:\\Code\\c\u002B\u002B\\Learn\\LearnOne\\LearnOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B9CCD31E-D3EE-483D-B951-2672C103BA7D}|LearnOne.vcxproj|W:\\Code\\c\u002B\u002B\\Lessons\\LessonOne\\LearnOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B9CCD31E-D3EE-483D-B951-2672C103BA7D}|LearnOne.vcxproj|solutionrelative:LearnOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,19 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LearnOne.cpp",
-              "DocumentMoniker": "W:\\Code\\c\u002B\u002B\\Learn\\LearnOne\\LearnOne.cpp",
+              "DocumentMoniker": "W:\\Code\\c\u002B\u002B\\Lessons\\LessonOne\\LearnOne.cpp",
               "RelativeDocumentMoniker": "LearnOne.cpp",
-              "ToolTip": "W:\\Code\\c\u002B\u002B\\Learn\\LearnOne\\LearnOne.cpp",
+              "ToolTip": "W:\\Code\\c\u002B\u002B\\Lessons\\LessonOne\\LearnOne.cpp",
               "RelativeToolTip": "LearnOne.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

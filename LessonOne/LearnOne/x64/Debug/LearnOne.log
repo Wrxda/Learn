@@ -1,4 +1,4 @@
 ﻿  LearnOne.cpp
-W:\Code\c++\Learn\LearnOne\LearnOne.cpp(8,9): warning C4101: b: неиспользованная локальная переменная
-W:\Code\c++\Learn\LearnOne\LearnOne.cpp(8,12): warning C4101: c: неиспользованная локальная переменная
-  LearnOne.vcxproj -> W:\Code\c++\Learn\LearnOne\x64\Debug\LearnOne.exe
+W:\Code\c++\Lessons\LessonOne\LearnOne.cpp(8,9): warning C4101: b: неиспользованная локальная переменная
+W:\Code\c++\Lessons\LessonOne\LearnOne.cpp(8,12): warning C4101: c: неиспользованная локальная переменная
+  LearnOne.vcxproj -> W:\Code\c++\Lessons\LessonOne\x64\Debug\LearnOne.exe

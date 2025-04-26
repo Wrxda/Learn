@@ -1,3 +1,3 @@
 ﻿  LearnTwo.cpp
-W:\Code\c++\Learn\LearnTwo\LearnTwo.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  LearnTwo.vcxproj -> W:\Code\c++\Learn\LearnTwo\x64\Debug\LearnTwo.exe
+W:\Code\c++\Lessons\LessonTwo\LearnTwo.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LearnTwo.vcxproj -> W:\Code\c++\Lessons\LessonTwo\x64\Debug\LearnTwo.exe

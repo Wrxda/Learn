@@ -11,8 +11,8 @@ int main() {
 	}*/
 
 	cout << "Я загадал число от 1 до 10, тебе нужно его отгадать, каждый раз число обновляется!" << endl;
-	srand(time(NULL)); //число обновляется
-	int randomNum = 1 + rand() % 10; //рандомное число от 1 до 10
+	srand(time(NULL));
+	int randomNum = 1 + rand() % 10;
 	bool stop = false;
 	
 	int userNumber;

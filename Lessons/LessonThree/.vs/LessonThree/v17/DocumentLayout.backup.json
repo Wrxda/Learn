@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Code\\c\u002B\u002B\\Lessons\\Lessons\\LessonThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3BAC56-0635-41BA-B3FD-2E68AEEBF558}|LessonThree.vcxproj|W:\\Code\\c\u002B\u002B\\Lessons\\Lessons\\LessonThree\\LessonThree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3BAC56-0635-41BA-B3FD-2E68AEEBF558}|LessonThree.vcxproj|solutionrelative:LessonThree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LessonThree.cpp",
+              "DocumentMoniker": "W:\\Code\\c\u002B\u002B\\Lessons\\Lessons\\LessonThree\\LessonThree.cpp",
+              "RelativeDocumentMoniker": "LessonThree.cpp",
+              "ToolTip": "W:\\Code\\c\u002B\u002B\\Lessons\\Lessons\\LessonThree\\LessonThree.cpp*",
+              "RelativeToolTip": "LessonThree.cpp*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T15:01:34.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Code\\c\u002B\u002B\\Lessons\\Tasks\\TasksThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFFCFDD-0E7B-407D-ABFC-0D26EDABEE4A}|TasksThree.vcxproj|W:\\Code\\c\u002B\u002B\\Lessons\\Tasks\\TasksThree\\TasksThree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BFFCFDD-0E7B-407D-ABFC-0D26EDABEE4A}|TasksThree.vcxproj|solutionrelative:TasksThree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksThree.cpp",
+              "DocumentMoniker": "W:\\Code\\c\u002B\u002B\\Lessons\\Tasks\\TasksThree\\TasksThree.cpp",
+              "RelativeDocumentMoniker": "TasksThree.cpp",
+              "ToolTip": "W:\\Code\\c\u002B\u002B\\Lessons\\Tasks\\TasksThree\\TasksThree.cpp",
+              "RelativeToolTip": "TasksThree.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T12:40:41.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

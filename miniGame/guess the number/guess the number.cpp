@@ -33,6 +33,10 @@ int main() {
 			if (attempts == 0) {
 				cout << "Попытки кончилиcь!" << endl;
 				cout << "Было загадано число: " << randomNum << endl;
+				cout << "Нажмите Enter для выхода...";
+				cin.ignore();
+				cin.get();
+
 				return 1;
 			}
 			else {
@@ -58,11 +62,11 @@ int main() {
 	else {
 		cout << "До свидания!";
 	}
-	
+	cout << "Нажмите Enter для выхода...";
 
-	
+	cin.ignore();
+	cin.get(); 
 
-
-	
 	return 0;
+	
 }

@@ -32,6 +32,7 @@ int main() {
 
 			if (attempts == 0) {
 				cout << "Попытки кончилиcь!" << endl;
+				cout << "Было загадано число: " << randomNum << endl;
 				return 1;
 			}
 			else {
